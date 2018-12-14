@@ -1,0 +1,16 @@
+﻿/*分页*/
+
+.paging{min-width:200px;margin:0 auto;margin-top:10px;padding-top:10px; clear:both}
+
+.paging ul{ width:100%; text-align:center}
+
+.paging li{ display:inline-block; *display:inline;zoom:1 ;margin-left:5px;border:1px #eee solid; background:#fff;padding:3px 10px 3px 10px;}
+
+.paging li:hover{ background:#3e3a39}
+
+.paging li:hover a{ color:#FFF}
+
+.paging li a{display:block; color:#666666; text-decoration: none}
+
+.paging li a:hover{ color:#fff;}
+.paging .paging_current{ background:#3e3a39 ;}

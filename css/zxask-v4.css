@@ -1,0 +1,265 @@
+﻿body, html {
+    background: #eee; }
+
+.user-ask-icon, .user-question section h1 span, .user-question section > strong {
+    background: url("../images/zxqa_03.jpg") no-repeat; }
+.nav-menus {
+  padding: 0 10px;
+  height: 44px;
+  line-height: 44px;
+  color: #999; }
+.nav-menus a {
+  color: #9c9c9c; }
+.nav-menus a {
+  color: #9c9c9c; }
+
+.top-search {
+    height: 100px;
+    display: block;
+    background: #fff;
+    border-bottom: solid 1px #e3e3e3;
+    text-align: center; }
+.top-search h1 {
+    height: 40px;
+    line-height: 40px; }
+.top-search h1 span {
+    color: #0bae4c; }
+.top-search input[type='search'] {
+    height: 40px;
+    border: solid 1px #0bae4c;
+    width: 67.1875%;
+    -webkit-appearance: none;
+    outline-color: #0bae4c;
+    padding-left: 6px; }
+.top-search a {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 15px;
+    color: #fff;
+    background: #0bae4c; }
+.module{
+  display: block;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  border: 1px solid #cfcfcf;
+  background-color: #fff;
+  margin: 20px 0px;
+  color: #333;
+}
+
+.user-question {
+    margin: 10px; }
+.user-question section {
+    margin-bottom: 10px;
+    font-size: 15px;
+    background: #fff;
+    border: solid 1px #e3e3e3;
+    padding: 15px 15px 15px 46px;
+    position: relative; }
+.user-question section h1 {
+    line-height: 18px;
+    color: #000; }
+.user-question section h1.no-pdleft {
+    padding-left: 10px !important; }
+.user-question section h1 span {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    height: 30px;
+    width: 30px;
+    background-size: 50px;
+    background-position: 0 2px; }
+.user-question section > p {
+    margin-top: 15px;
+    line-height: 18px;
+    color: #333; }
+.user-question section a {
+    display: inline-block;
+    padding: 6px;
+    font-size: 15px; }
+.user-question section footer {
+    margin-top: 15px;
+    font-size: 12px;
+    color: #999;
+    height: 20px;
+    padding-left: 15px;
+    position: relative; }
+.user-question section footer.nopdleft {
+    padding-left: 0; }
+.user-question section time {
+    position: absolute;
+    bottom: 5px;
+    right: 15px; }
+.user-question section figure {
+    background: #eee;
+    min-height: 200px;
+    margin: 0 15px 15px 15px; }
+.user-question section > strong {
+    position: absolute;
+    left: 10px;
+    width: 80px;
+    height: 80px;
+    background-position: 0 -129px;
+    background-size: 70px; }
+.user-question section h3, .user-question section h4 {
+    height: 40px;
+    font-size: 14px;
+    margin-left: 90px; }
+.user-question section h3 {
+    margin-top: 10px;
+    line-height: 40px; }
+.user-question section h4 {
+    font-size: 12px; }
+.user-question section ul {
+    padding: 10px; }
+.user-question section ul li {
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    color: #333;
+    border-bottom: solid 1px #e3e3e3;
+    position: relative; }
+.user-question section ul li a {
+    display: block;
+    position: relative;
+    padding-right: 50px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; }
+.user-question section ul li b {
+    position: absolute;
+    right: 0;
+    color: #999; }
+.user-question section:not(:nth-of-type(1)) {
+    padding: 0; }
+.user-question section:not(:nth-of-type(1)) p {
+    padding: 0 15px 15px 15px; }
+.user-question section:not(:nth-of-type(1)) h1 {
+    height: 40px;
+    line-height: 40px;
+    border-bottom: solid 1px #e3e3e3;
+    padding-left: 40px; }
+.user-question section:not(:nth-of-type(1)) h1 span {
+    top: 8px;
+    background-position: 0 -62px; }
+.user-question section:not(:nth-of-type(1)) span.icon-ps {
+    background-position: 0 -32px; }
+
+.mt10 {
+    margin-bottom: 10px;
+    display: block; }
+
+.bt-lines {
+    border: none;
+    border-bottom: solid 1px #e3e3e3;
+    margin: 0 15px;
+    margin-top: 10px; }
+
+/*20150724*/
+.whan-ad {
+    background: rgba(0, 0, 0, 0.7);
+    height: 53px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-left: 75px; }
+.whan-ad div {
+    position: relative; }
+.whan-ad div img {
+    position: absolute;
+    margin-left: -60px;
+    margin-top: -49px;
+    width: 55px; }
+.whan-ad div h1 {
+    font-size: 16px;
+    font-weight: bolder;
+    color: #f25618;
+    font-family: "Arial" , "Microsoft YaHei";
+    margin-top: 12px;
+    margin-bottom: 2px; }
+.whan-ad div h2 {
+    font-size: 12px;
+    color: #fff; }
+.whan-ad div h3 {
+    background: #f25618;
+    width: 36%;
+    height: 32px;
+    font-size: 14px;
+    border-radius: 4px;
+    position: absolute;
+    right: 16px;
+    top: -1px;
+    color: #fff;
+    text-align: center;
+    line-height: 32px; }
+.whan-ad div h3 a{
+    color:#fff;}
+
+.hot-word {
+    display: block;
+    border-top: solid 1px #ccc;
+    /*  border-bottom: solid 1px #e3e3e3;
+      margin: 10px;*/
+    padding: 10px 0px; }
+.hot-word h1 {
+    font-size: 19px;
+    margin-bottom: 10px;
+    font-weight: bold;}
+.hot-word ul li {
+    height: 30px;
+    line-height: 35px;
+    color: #ff4646;
+    font-size: 16px;
+    position: relative;
+    padding-left: 10px; }
+.hot-word ul li::before {
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    border-radius: 2px;
+    background: #ff4646;
+    left: 0;
+    top: 17px; }
+.hot-word ul li a {
+    color: #ff4646;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 96%; }
+.hot-word ul li em {
+    position: absolute;
+    background: #ff4646;
+    color: #fff;
+    font-size: 8px;
+    top: 9px;
+    height: 12px;
+    line-height: 10px;
+    width: 20px;
+    text-align: center;}
+
+.li-add-line {
+    background: #fff;
+    border-right: solid 1px #e3e3e3;
+    border-left: solid 1px #e3e3e3;
+    margin: 15px;
+    border-bottom: solid 1px #ccc;
+    padding: 10px;}
+.li-add-line h1 {
+    border-bottom: solid 1px #e3e3e3;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 3px !important; }
+.li-add-line li {
+    border-bottom: solid 1px #e3e3e3;
+    height: 40px !important;
+    line-height: 40px !important; }
+.li-add-line li:last-child{
+    border-bottom:none}
+
+.shareto-wrap{
+    padding-top: 10px;
+    border-top: solid 1px #ccc;}

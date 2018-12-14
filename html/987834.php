@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)https://vr.justeasy.cn/view/987834.html?from=groupmessage -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>家装</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="renderer" content="webkit">
+	<meta name="keywords" content="家装">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	
+	<script src="http://localhost/qfl-xy/wp-content/themes/mqc/js/hm.js"></script><script src="http://localhost/qfl-xy/wp-content/themes/mqc/js/jquery.min.js"></script>
+	<script type="text/javascript" src="http://localhost/qfl-xy/wp-content/themes/mqc/js/layer.js"></script><link rel="stylesheet" href="http://localhost/qfl-xy/wp-content/themes/mqc/css/layer.css" id="layui_layer_skinlayercss" style="">
+	<script type="text/javascript" src="http://localhost/qfl-xy/wp-content/themes/mqc/js/jweixin-1.0.0.js"></script>
+	<script src="http://localhost/qfl-xy/wp-content/themes/mqc/js/jquery.qrcode.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost/qfl-xy/wp-content/themes/mqc/css/vr-css.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost/qfl-xy/wp-content/themes/mqc/css/vr-preview.css">
+	<style>
+		.pano-wrapper{ bottom: 10px; right: 0px;   font-size: 12px;margin-right:10px;}
+		.pano-wrapper li{ width: 50px; height: 50px;}
+		.pano-wrapper .iconname{ padding-top: 0px; }
+		.pano-wrapper .icon{ width: 25px; cursor: pointer; }
+		.pano-wrapper .share{display: none;}
+		.layui-layer-rim,.layui-layer-hui{ width: 80% !important;}
+		.layui-layer-rim iframe,.layui-layer-hui iframe{width: 100% !important;}
+		.pano-wrapper .mdesigner{display: block !important; position: fixed; left: 60px;}
+		.pano-wrapper .mdesigner1{display: block !important; position: fixed; left: 110px;}
+		.pano-wrapper .scenes{display: block !important; position: fixed; left: 10px;}
+		.top-advert{position: fixed;top:0px;height: 25px;line-height: 25px;background: rgba(0,0,0,.3);width: 100%;text-align: center;overflow: hidden; font-size: 12px}
+		.none{ display: none}
+		.scroll_div{ width: 100% !important;}		.kf-line{position: absolute;bottom:75px;background: rgba(70, 70, 70, 0.8) none repeat scroll 0 0;padding: 2px 5px;right: -36px;}
+		.border-red{border: 1px #f00 solid;}
+		*{z-index: 0;}
+	</style>
+</head>
+<body>
+<audio id="mp3" src="https://vrmusic.justeasy.cn/uploads/music/201605/20160526162338_5746b28ae139b.mp3" loop="loop" style="display: none;"></audio><script src="http://localhost/qfl-xy/wp-content/themes/mqc/js/tour.js"></script>
+http://localhost/qfl-xy/wp-content/themes/mqc/js/
+<div id="pano" style="width:100%;height:100%;">
+	<noscript><table style="width:100%;height:100%;"><tr style="vertical-align:middle;"><td><div style="text-align:center;">ERROR:<br/><br/>Javascript not activated<br/><br/></div></td></tr></table></noscript>
+<div id="krpanoSWFObject" tabindex="-1" style="position: relative; overflow: hidden; height: 100%; line-height: normal; font-weight: normal; font-style: normal; outline: 0px; -webkit-tap-highlight-color: transparent; width: 100%; cursor: pointer; pointer-events: auto;"><div style="position: absolute; left: 0px; top: 0px; width: 600px; height: 480px; overflow: hidden; user-select: none; touch-action: none; -webkit-tap-highlight-color: transparent; cursor: default;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none;"><canvas width="750" height="600" style="position: absolute; left: 0px; top: 0px; width: 600px; height: 480px;"></canvas></div><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; overflow: hidden; user-select: none; transform-style: preserve-3d;"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background: none; width: 0px; height: 0px; transform: translateZ(1e+12px) translate(0px, 0px) translate(0px, 0px) rotate(0deg) translate(0px, 0px);"></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background: none; width: 0px; height: 0px; transform: translateZ(1e+12px) translate(0px, 0px) translate(0px, 0px) rotate(0deg) translate(0px, 0px);"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 0; color: rgb(0, 0, 0); text-size-adjust: none; pointer-events: auto; background: none; cursor: pointer; width: 86.4px; height: 38.4px; transform: translateZ(1e+12px) translate(256.8px, 24px) translate(0px, -19.2px) rotate(0deg) translate(0px, 19.2px);"><div style="position: absolute; top: -1px; left: -1px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position: absolute; white-space: nowrap; border: 1px solid rgba(255, 255, 255, 0); background-color: rgba(0, 0, 0, 0); box-shadow: rgba(0, 0, 0, 0) 0px 0px 16px;"><div style="margin:6px 10px 6px 10px; color:#FFFFFF; font-family:微软雅黑 , Arial , Helvetica, sans-serif; font-size:14px; font-size:20px;">Exit VR</div></div></div></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 0; color: rgb(0, 0, 0); text-size-adjust: none; pointer-events: auto; background: none; cursor: pointer; width: 108px; height: 38.4px; transform: translateZ(1e+12px) translate(246.4px, 417.6px) translate(0px, 19.2px) rotate(0deg) translate(0px, -19.2px);"><div style="position: absolute; top: -1px; left: -1px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position: absolute; white-space: nowrap; border: 1px solid rgba(255, 255, 255, 0); background-color: rgba(0, 0, 0, 0); box-shadow: rgba(0, 0, 0, 0) 0px 0px 16px;"><div style="margin:6px 10px 6px 10px; color:#FFFFFF; font-family:微软雅黑 , Arial , Helvetica, sans-serif; font-size:14px; font-size:20px;">VR Setup</div></div></div></div><div style="position: absolute; z-index: 3002; overflow: hidden; opacity: 1; background: none; cursor: default; pointer-events: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 600px; height: 480px; transform: translateZ(1e+12px) translate(0px, 0px) translate(0px, -240px) rotate(0deg) translate(0px, 240px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/vr.png&quot;); width: 36px; height: 36px; background-position: 0px 0px; background-size: 36px 36px; transform: translateZ(1e+12px) translate(544px, 214.4px) translate(18px, 18px) rotate(0deg) translate(-18px, -18px);"></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/music.png&quot;); width: 36px; height: 36px; background-position: 0px 0px; background-size: 36px 36px; transform: translateZ(1e+12px) translate(544px, 164px) translate(18px, 18px) rotate(0deg) translate(-18px, -18px);"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/gyro.png&quot;); width: 36px; height: 36px; background-position: 0px 0px; background-size: 36px 36px; transform: translateZ(1e+12px) translate(544px, 114.4px) translate(18px, 18px) rotate(0deg) translate(-18px, -18px);"></div><div style="position: absolute; z-index: 3002; overflow: hidden; opacity: 1; cursor: default; pointer-events: none; background: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 600px; height: 480px; transform: translateZ(1e+12px) translate(0px, -100px) translate(0px, 240px) rotate(0deg) translate(0px, -240px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background: none; box-shadow: rgba(0, 0, 0, 0) 0px 0px 20px 0px; border-style: solid; border-color: rgba(255, 255, 255, 0); border-width: 1px 0px; border-radius: 0px; width: 600px; height: 480px; transform: translateZ(1e+12px) translate(0px, 479px) translate(0px, 240px) rotate(0deg) translate(0px, -240px);"><div style="position: absolute; z-index: 3001; overflow: hidden; opacity: 1; cursor: default; pointer-events: none; background: none rgba(0, 0, 0, 0.2); border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 600px; height: 480px; transform: translateZ(1e+12px) translate(0px, 0px) translate(-300px, -240px) rotate(0deg) translate(300px, 240px);"><div style="display: none; position: absolute; z-index: 3001; overflow: hidden; opacity: 1; cursor: default; pointer-events: none; background: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 600px; height: 480px; transform: translateZ(1e+12px) translate(0px, 0px) translate(-300px, -240px) rotate(0deg) translate(300px, 240px);"><div style="display: none; position: absolute; z-index: 3003; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/vtourskin.png&quot;); width: 32px; height: 32px; background-position: 0px -32px; background-size: 64px 384px; transform: translateZ(1e+12px) translate(4.8px, 44.8px) translate(-16px, 0px) rotate(0deg) translate(16px, 0px);"></div><div style="display: none; position: absolute; z-index: 3003; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/vtourskin.png&quot;); width: 32px; height: 32px; background-position: -32px -32px; background-size: 64px 384px; transform: translateZ(1e+12px) translate(563.2px, 44.8px) translate(16px, 0px) rotate(0deg) translate(-16px, 0px);"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background: none rgba(255, 255, 255, 0.25); border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 0px; height: 2.4px; transform: translateZ(1e+12px) translate(0px, 120px) translate(0px, -1.2px) rotate(0deg) translate(0px, 1.2px);"></div><div style="position: absolute; z-index: 3002; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background: none; width: 230.4px; height: 122.4px; transform: translateZ(1e+12px) translate(184.8px, 0px) translate(0px, -61.2px) rotate(0deg) translate(0px, 61.2px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://vrimg.justeasy.cn/pano/20171022/e1a120c270aab81a6cc79c0781834f46/20171022165338_59ec5c9246387.tiles/thumb.jpg&quot;); width: 100px; height: 100px; background-position: 0px 0px; background-size: 100px 100px; transform: translateZ(1e+12px) translate(10.4px, 10.4px) translate(-50px, -50px) rotate(0deg) translate(50px, 50px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; color: rgb(0, 0, 0); text-size-adjust: none; width: 100px; height: 16.8px; transform: translateZ(1e+12px) translate(0px, 78.4px) translate(0px, 8.4px) rotate(0deg) translate(0px, -8.4px); background: none;"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position: absolute; width: 100px; overflow: hidden; text-shadow: rgb(0, 0, 0) 1px 1px 3.2px;"><div style="margin:2px 2px 2px 2px; color:#FFFFFF; font-family:微软雅黑 , Arial , Helvetica, sans-serif; font-size:14px; text-align:center; font-size:10px;">卧室全景</div></div></div></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; background: none; cursor: default; pointer-events: none; border-style: solid; border-color: rgba(239, 120, 0, 0.8); border-width: 4px; border-radius: 3px; width: 96px; height: 96px; transform: translateZ(1e+12px) translate(-2.4px, -2.4px) translate(-48px, -48px) rotate(0deg) translate(48px, 48px);"></div></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://vrimg.justeasy.cn/pano/20171031/e1a120c270aab81a6cc79c0781834f46/20171031080102_59f7bd3f02b3c.tiles/thumb.jpg&quot;); width: 100px; height: 100px; background-position: 0px 0px; background-size: 100px 100px; transform: translateZ(1e+12px) translate(120px, 10.4px) translate(-50px, -50px) rotate(0deg) translate(50px, 50px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; color: rgb(0, 0, 0); text-size-adjust: none; width: 100px; height: 16.8px; transform: translateZ(1e+12px) translate(0px, 78.4px) translate(0px, 8.4px) rotate(0deg) translate(0px, -8.4px); background: none;"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position: absolute; width: 100px; overflow: hidden; text-shadow: rgb(0, 0, 0) 1px 1px 3.2px;"><div style="margin:2px 2px 2px 2px; color:#FFFFFF; font-family:微软雅黑 , Arial , Helvetica, sans-serif; font-size:14px; text-align:center; font-size:10px;">客厅全景</div></div></div></div></div></div></div></div></div></div><div style="position: absolute; z-index: 3003; overflow: hidden; opacity: 1; cursor: default; pointer-events: none; background: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 600px; height: 100px; transform: translateZ(1e+12px) translate(0px, 380px) translate(0px, 50px) rotate(0deg) translate(0px, -50px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background: none; box-shadow: rgba(0, 0, 0, 0) 0px 0px 20px 0px; border-style: solid; border-color: rgba(255, 255, 255, 0); border-width: 1px 0px; border-radius: 0px; width: 600px; height: 40px; transform: translateZ(1e+12px) translate(0px, -0.8px) translate(0px, 20px) rotate(0deg) translate(0px, -20px);"></div></div><div style="position: absolute; z-index: 3004; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 600px; height: 40px; transform: translateZ(1e+12px) translate(0px, 380px) translate(0px, 20px) rotate(0deg) translate(0px, -20px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 600px; height: 40px; transform: translateZ(1e+12px) translate(0px, 0px) translate(-300px, 20px) rotate(0deg) translate(300px, -20px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/scene.png&quot;); width: 36px; height: 36px; background-position: 0px 0px; background-size: 36px 36px; transform: translateZ(1e+12px) translate(40px, 7.2px) translate(-18px, 0px) rotate(0deg) translate(18px, 0px);"></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 5px; width: 70.4px; height: 28px; transform: translateZ(1e+12px) translate(22.4px, 46.4px) translate(-35.2px, 0px) rotate(0deg) translate(35.2px, 0px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto; color: rgb(0, 0, 0); text-size-adjust: none; background: none; width: 70.4px; height: 26.4px; transform: translateZ(1e+12px) translate(0px, 0px) translate(-35.2px, -13.2px) rotate(0deg) translate(35.2px, 13.2px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position:absolute;white-space:nowrap;"><div style="margin:3px 7px 3px 7px;font-size:14px; color:#FFFFFF;font-family:微软雅黑, Arial, Helvetica, sans-serif">场景选择</div></div></div></div></div></div></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; color: rgb(0, 0, 0); text-size-adjust: none; background: none; width: 70.4px; height: 32.8px; transform: translateZ(1e+12px) translate(269.6px, 218.4px) translate(0px, 0px) rotate(0deg) translate(0px, 0px); display: none;"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position: absolute; white-space: nowrap; text-shadow: rgb(0, 0, 0) 1px 1px 3.2px;"><div style="margin:2px 2px 2px 2px; color:#FFFFFF; font-family:微软雅黑 , Arial , Helvetica, sans-serif; font-size:14px; text-align:center; font-style:italic; font-size:22px;">加载中</div></div></div></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 0; cursor: default; pointer-events: none; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/vtourskin.png&quot;); width: 64px; height: 64px; background-position: -64px -384px; background-size: 128px 768px; transform: translateZ(1e+12px) translate(268px, 208.8px) translate(0px, 0px) rotate(0deg) translate(0px, 0px);"></div></div><div style="position: absolute; z-index: 3003; overflow: visible; opacity: 0; background: none; cursor: default; pointer-events: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 40px; height: 480px; transform: translateZ(1e+12px) translate(-50.4px, 0px) translate(-20px, -240px) rotate(0deg) translate(20px, 240px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/vtourskin.png&quot;); width: 32px; height: 32px; background-position: 0px -32px; background-size: 64px 384px; transform: translateZ(1e+12px) translate(4px, 224px) translate(0px, 0px) rotate(0deg) translate(0px, 0px);"></div></div><div style="position: absolute; z-index: 3003; overflow: visible; opacity: 0; background: none; cursor: default; pointer-events: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 40px; height: 480px; transform: translateZ(1e+12px) translate(610.4px, 0px) translate(20px, -240px) rotate(0deg) translate(-20px, 240px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/vtourskin.png&quot;); width: 32px; height: 32px; background-position: -32px -32px; background-size: 64px 384px; transform: translateZ(1e+12px) translate(4px, 224px) translate(0px, 0px) rotate(0deg) translate(0px, 0px);"></div></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 0; cursor: pointer; pointer-events: auto; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/vtourskin.png&quot;); width: 64px; height: 64px; background-position: 0px -640px; background-size: 128px 768px; transform: translateZ(1e+12px) translate(276px, 216px) translate(-32px, -32px) scale(0.75, 0.75) translate(32px, 32px) translate(0px, 0px) rotate(0deg) translate(0px, 0px);"></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; background: none; cursor: default; pointer-events: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 300px; height: 0px; transform: translateZ(1e+12px) translate(0px, 15.2px) translate(-150px, 0px) rotate(0deg) translate(150px, 0px);"><div style="position: absolute; z-index: 3001; overflow: hidden; opacity: 1; cursor: default; pointer-events: none; background: none; border-style: solid; border-color: rgb(0, 0, 0); border-width: 0px; border-radius: 0px; width: 60px; height: 60px; transform: translateZ(1e+12px) translate(20px, 18.4px) translate(-30px, -30px) rotate(0deg) translate(30px, 30px);"><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background-image: url(&quot;https://vrimg.justeasy.cn/pano/20171022/e1a120c270aab81a6cc79c0781834f46/logo/694204_59ec559cf04df_150.jpg&quot;); width: 50.4px; height: 50.4px; background-position: 0px 0px; background-size: 50.4px 50.4px; transform: translateZ(1e+12px) translate(0px, 0px) translate(-25.2px, -25.2px) rotate(0deg) translate(25.2px, 25.2px);"></div></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; color: rgb(0, 0, 0); text-size-adjust: none; background: none; width: 0px; height: 0px; transform: translateZ(1e+12px) translate(84.8px, 15.2px) translate(0px, 0px) rotate(0deg) translate(0px, 0px);"></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/eye.png&quot;); width: 18.4px; height: 12px; background-position: 0px 0px; background-size: 18.4px 12px; transform: translateZ(1e+12px) translate(84.8px, 50.4px) translate(-9.2px, -6px) rotate(0deg) translate(9.2px, 6px);"></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: default; pointer-events: none; color: rgb(0, 0, 0); text-size-adjust: none; background: none; width: 42.4px; height: 24.8px; transform: translateZ(1e+12px) translate(104.8px, 42.4px) translate(-21.2px, -12.4px) rotate(0deg) translate(21.2px, 12.4px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position:absolute;white-space:nowrap;"><div style="margin:2px 2px 2px 2px;font-size:16px; color:#FFFFFF; font-family:微软雅黑, Arial, Helvetica, sans-serif;">1047</div></div></div></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 0.6; cursor: default; pointer-events: none; background-image: url(&quot;https://res1.justeasy.cn/vr16/skin/logo.png&quot;); width: 94.4px; height: 24px; background-position: 0px 0px; background-size: 94.4px 24px; transform: translateZ(1e+12px) translate(20px, 75.2px) translate(-47.2px, -12px) rotate(0deg) translate(47.2px, 12px);"></div></div><div style="position: absolute; z-index: 3001; overflow: visible; opacity: 0; color: rgb(0, 0, 0); text-size-adjust: none; pointer-events: auto; background: none; cursor: pointer; width: 57.6px; height: 12px; transform: translateZ(1e+12px) translate(472.8px, 458.4px) translate(28.8px, 6px) rotate(0deg) translate(-28.8px, -6px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: visible;"><div style="position:absolute;white-space:nowrap;"><div style="margin:2px 2px 2px 2px;color:#dddddd">技术支持：建E网</div></div></div></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 0.3; cursor: default; pointer-events: none;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div><div style="display: none; position: absolute; z-index: 3001; overflow: visible; opacity: 1; cursor: pointer; pointer-events: auto;"></div></div></div><div style="position: absolute; left: 0px; bottom: -1px; width: 100%; height: 156px; overflow: hidden; display: none; transform: translateZ(2e+12px); z-index: 999999999;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; overflow: hidden; background-color: rgb(0, 0, 0); box-sizing: border-box; border-top: 1px solid rgba(255, 255, 255, 0.8); border-bottom: 1px solid rgba(255, 255, 255, 0.8); opacity: 0.6;"></div><pre style="font-family: &quot;Courier New&quot;; font-size: 11px; position: absolute; left: 5px; top: 0px; margin: 6px 0px; padding: 0px 16px 0px 0px; background: none; line-height: 1.2; border: 0px; border-radius: 0px; width: 100%; height: 146px; overflow: hidden auto; display: block; text-align: left; white-space: pre-line; color: rgb(255, 255, 255); cursor: text;">INFO: krpano 1.19-pr16 (build 2018-04-04)
+INFO: HTML5/Desktop - Chrome - WebGL
+INFO: Registered to: Joseph Fouts Photography
+<span style="color:#FFFF00;">ERROR: layer[skin_layer].layer[skin_btn_vr] - style not found: skin_custom</span> 
+<span style="color:#FFFF00;">ERROR: layer[skin_layer].layer[skin_btn_sound] - style not found: skin_custom</span> </pre><div style="position: absolute; right: 0px; top: 6px; padding: 0px 4px; height: 30px; user-select: none; cursor: pointer; -webkit-tap-highlight-color: transparent; font-family: &quot;Courier New&quot;; font-size: 10px; color: rgb(255, 255, 255);">CLOSE</div><div style="position: absolute; right: 2px; bottom: 4px; padding: 0px 4px 4px; height: 14px; user-select: none; cursor: pointer; -webkit-tap-highlight-color: transparent; font-family: &quot;Courier New&quot;; font-size: 14px; color: rgb(170, 170, 170);">⇵</div><div style="position: absolute; right: 0px; bottom: 18px; padding: 0px 4px 4px; height: 12px; user-select: none; cursor: pointer; -webkit-tap-highlight-color: transparent; font-family: &quot;Courier New&quot;; font-size: 10px; color: rgb(15, 255, 0); display: none;">LAYERS</div><div style="position: absolute; right: 0px; bottom: 36px; padding: 4px 4px 0px; height: 12px; user-select: none; cursor: pointer; -webkit-tap-highlight-color: transparent; font-family: &quot;Courier New&quot;; font-size: 10px; color: rgb(15, 255, 0); display: none;">HOTSPOTS</div></div><div style="display: none; position: absolute; z-index: 3003; overflow: visible; opacity: 0; color: rgb(0, 0, 0); text-size-adjust: none; pointer-events: none; background: none; cursor: default; width: 200px; height: 0px; transform: translateZ(1e+12px) translate(-100px, 0px) translate(0px, 0px) rotate(0deg) translate(0px, -2px);"></div><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: hidden;"><div style="position: absolute; white-space: nowrap; background-color: rgba(51, 51, 51, 0.7); border-radius: 5px;"><div style="margin:5px 8px 5px 8px;color:#dddddd; font-size:14px; ">客厅全景</div></div></div><div style="position: absolute; top: 0px; left: -10000px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: hidden;"><div style="position: absolute; width: 200px; overflow: hidden; text-shadow: rgb(0, 0, 0) 0px 1px 4.8px;"><div style="margin:2px 2px 2px 2px; color:#FFFFFF; font-family:微软雅黑 , Arial , Helvetica, sans-serif; font-size:14px; text-align:center; font-size:16px;"></div></div></div><div style="position: absolute; top: 0px; left: -10000px; transform-origin: 0px 0px 0px; transform: scale(1); width: 100%; height: 100%; font-size: 12px; font-family: Arial; line-height: normal; color: rgb(0, 0, 0); pointer-events: none; visibility: hidden;"><div style="position:absolute;white-space:nowrap;"><div style="margin:2px 2px 2px 2px;font-size:18px; color:#FFFFFF;font-family:微软雅黑, Arial, Helvetica, sans-serif;"></div></div></div></div></div>
+
+
+<ul class="pano-wrapper" id="pano-wrapper">
+<li style="width: 1px;height: 50px;"></li>
+<li class="share">
+	<div class="ewm none" style="padding: 10px; width:180px;height:180px;background: #fff">
+		<div id="shareimg">
+			<img src="http://localhost/qfl-xy/wp-content/themes/mqc/images/694204_59ec559cf04df_150.jpg" width="50" height="50" style="position: absolute;top: 70px;left: 70px;background: #fff;width: 50px;height: 50px">		<canvas width="180" height="180"></canvas></div>
+	</div>
+	<img src="http://localhost/qfl-xy/wp-content/themes/mqc/images/icon-fx.png" class="icon">
+	<div class="iconname">分享</div>
+</li>
+<li>
+		<a href="javascript:;" id="btn_like">
+			<img src="http://localhost/qfl-xy/wp-content/themes/mqc/images/icon_like.png" class="icon">
+		</a>
+		<div class="iconname" id="like_num">4</div>
+	</li>
+
+
+<li class="none scenes" onclick="krpano.call(&#39;skin_showmap(false); skin_showthumbs();&#39;);">
+		<a href="javascript:;">
+			<img src="http://localhost/qfl-xy/wp-content/themes/mqc/images/icon-cj.png" class="icon">
+		</a>
+		<div class="iconname">场景</div>
+	</li>
+</ul>
+
+<div id="des_intro" style="display:none">
+	<div class="intro" style="padding:20px;">
+		<textarea style="width:100%;height: 300px; background: #fff;font-size: 16px;" readonly="" disabled="disabled"></textarea>
+			</div>
+</div>
+
+
+<script>
+
+	function getmake(){
+		layer.open({
+			title: "在线预约",
+			area: ['580px', '430px'],
+			type: 1,
+			content: $('.pano-make')
+		});
+	}
+
+	function getmake1(){
+		layer.open({
+			title: "在线预约",
+			area: ['90%', '400px'],
+			type: 1,
+			content: $('.pano-make')
+		});
+	}
+
+	function getintro(){
+		layer.open({
+			title: "设计说明",
+			area: ['580px', '480px'],
+			type: 1,
+			content: $('#des_intro')
+		});
+	}
+
+	function getintro1(){
+		layer.open({
+			title: "设计说明",
+			area: ['90%', '400px'],
+			type: 1,
+			content: $('#des_intro')
+		});
+	}
+
+	function checkPhone(strPhone) {
+		var phoneReg = /^[1][3,4,5,7,8][0-9]{9}$/;
+		return phoneReg.test(strPhone);
+	}
+
+
+	$('#sub_yuyue').on('click',function(){
+		var id = 987834;
+		var name = $('#yy_name').val();
+		if(name.length<1){
+			layer.msg('请您输入称呼！');
+			$('#yy_name').addClass('border-red');return false;
+		}
+		$('#yy_name').removeClass('border-red');
+		var phone = $('#yy_phone').val();
+		if(!checkPhone(phone)){
+			layer.msg('请您输入正确的联系电话！');
+			$('#yy_phone').addClass('border-red');return false;
+		}
+		$('#yy_phone').removeClass('border-red');
+		var type = $('#yy_type').val();
+		$('#yy_type').removeClass('border-red');
+		var des = $('#yy_des').val();
+		if(des.length<10){
+			layer.msg('您输入的描述语过于简短！');
+			$('#yy_des').addClass('border-red');return false;
+		}
+		$('#yy_des').removeClass('border-red');
+		$.ajax({
+			url: "/Pano/Index/yuyue.php",
+			type: 'post',
+			dataType: 'json',
+			data: {name: name,id: id,phone:phone,type:type,des:des},
+		}).done(function(data){
+			layer.msg(data.msg,{time:2000},function(){
+				if(data.status == 200){
+					layer.closeAll();
+				}
+			});
+		}).fail(function(){
+			layer.msg('网络异常！');
+		});
+
+	});
+	
+	var isbigscreen = "2";
+	
+	var is_mobile = "200";
+</script>
+
+	<script>
+		document.domain = "justeasy.cn";
+		var scenenum = "2";
+		var xml = "https://vrxml.justeasy.cn/987834_0.xml";
+		embedpano({swf:"https://res1.justeasy.cn/vr16/tour.swf?v=16", xml:xml, target:"pano", html5:"prefer", mobilescale:1.0, passQueryParameters:true,wmode: "opaque"});
+		var krpano = document.getElementById("krpanoSWFObject");
+		function loadView() {
+			krpano.set("layer[viewnum].html", "1047");
+			var app_referer=parseInt("0");
+			if(app_referer==1){
+				krpano.set("layer[logcontainer].x",30);
+			}
+			if(app_referer==2){
+                krpano.set("layer[logcontainer].visible",false);
+			}
+			
+			if(isbigscreen == 1) {
+				krpano.set("layer[logcontainer].y", 40);
+				
+				krpano.set("layer[mapcontainer].y", 40);
+			}
+			
+			if(is_mobile > 0 && isbigscreen != 1) {
+				krpano.set("layer[logcontainer].y",15);
+			}
+		}
+	</script>
+
+<script>
+
+wx.config({
+	appId: 'wx2ed7c1e3c0abd05b',
+	timestamp: '1542874497',
+	nonceStr: 'f525beacc66e5ec8e7b7c974efdee178',
+	signature: 'e05c4c70f444d435e76e9211c98b7f80c3a57214',
+	jsApiList: ['onMenuShareTimeline', 'onMenuShareAppMessage','onMenuShareQZone','onMenuShareQQ']
+});
+wx.ready(function() {
+	wx.onMenuShareTimeline({
+		title: '家装',
+		link: location.toString(),
+		imgUrl: 'https://vrimg.justeasy.cn/pano/20171022/e1a120c270aab81a6cc79c0781834f46/20171022165338_59ec5c9246387.tiles/thumb.jpg'
+	});
+	wx.onMenuShareAppMessage({
+		title: '家装',
+		desc: '',
+		link: location.toString(),
+		imgUrl: 'https://vrimg.justeasy.cn/pano/20171022/e1a120c270aab81a6cc79c0781834f46/20171022165338_59ec5c9246387.tiles/thumb.jpg'
+	});
+	wx.onMenuShareQZone({
+		title: '家装',
+		desc: '',
+		link: location.toString(),
+		imgUrl: 'https://vrimg.justeasy.cn/pano/20171022/e1a120c270aab81a6cc79c0781834f46/20171022165338_59ec5c9246387.tiles/thumb.jpg',
+	});
+	wx.onMenuShareQQ({
+		title: '家装',
+		desc: '',
+		link: location.toString(),
+		imgUrl: 'https://vrimg.justeasy.cn/pano/20171022/e1a120c270aab81a6cc79c0781834f46/20171022165338_59ec5c9246387.tiles/thumb.jpg',
+	});
+});
+
+$(function() {
+	$(document).on("click",".layui-layer-close2",function(){
+		krpano.call("resumesound(bgsnd);");
+	});
+
+	if (navigator.userAgent.match(/mobile/i)) {
+		$(".tel").remove();
+	}
+	$("#pano-wrapper li").hover(function() {
+		$(".none", this).show();
+	}, function() {
+		$(".none", this).hide();
+	});
+
+	$("#btn_like").on('click', function(event) {
+		event.preventDefault();
+		$.ajax({
+			url: '/likepano.cgi',
+			type: 'get',
+			dataType: 'json',
+			data: {
+				id: '987834'
+			}
+		})
+		.done(function(data) {
+			if (data && data.status == 200) {
+				var num = parseInt($("#like_num").text());
+				$("#like_num").text(num+1);
+				$("#btn_like img").attr("src","https://res1.justeasy.cn/vr16/skin/icon_liked.png");
+				layer.msg('点赞成功！',{time:1000});
+			} else if(status==-200) {
+				layer.msg("没有赞成功 :(",{time:1000});
+			}
+			else
+			{
+				layer.msg("赞过啦 :)",{time:1000});
+			}
+		})
+	});
+
+})
+
+function showBox(id, type) {
+	$.ajax({
+			url: '/hotspotinfo.cgi',
+			type: 'get',
+			dataType: 'json',
+			data: {
+				id: id
+			}
+		})
+		.done(function(data) {
+			if (data && data.status == 200) {
+				var info = data.list;
+				if (type == 5) {
+					layer.photos({
+						photos: {
+							"title": info.name,
+							"id": info.id,
+							"data": [{
+								"alt": info.name,
+								"pid": info.id,
+								"src": "https://vrimg.justeasy.cn/" + info.target,
+								"thumb": ""
+							}]
+						}
+					});
+				} else {
+					krpano.call("pausesound(bgsnd);");
+					layer.msg(info.target, {
+						time: 0,
+						area:["auto","auto"],
+						closeBtn: true
+					});
+				}
+
+			}
+		})
+		.fail(function() {
+			layer.msg("网络错误！");
+		});
+
+}
+
+	$('#shareimg').qrcode({
+		render: 'canvas',
+		ecLevel: 'H',
+		size: 180,
+		radius: 0.5,
+		width : 180,
+		height: 180,
+		background: '#ffffff',
+		text: "https://vr.justeasy.cn/view/987834.html"
+	});
+
+
+	$(window).load(function() {
+		setTimeout(showclose,5000);
+	});
+
+	function showclose(){
+		$(".top-advert .top-close").show();
+	}
+
+	$(function(){
+		$(".top-advert .top-close").on('click', function(event) {
+			$(".top-advert").hide();
+		});
+	})
+
+	function adverturl(){
+		window.open("");
+		return false;
+	}
+
+	function closeadverturl(){
+		krpano.set("layer[advert001].visible",false);
+	}
+
+function playsound(){
+	var status = krpano.get("layer[skin_btn_sound].data");
+	if(status==1){
+		document.getElementById('mp3').pause();
+		krpano.set("layer[skin_btn_sound].alpha",0.25);
+		krpano.set("layer[skin_btn_sound].data",0);
+	}else{
+		document.getElementById('mp3').play();
+		krpano.set("layer[skin_btn_sound].alpha",1);
+		krpano.set("layer[skin_btn_sound].data",1);
+	}
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+	function audioAutoPlay() {
+		var audio = document.getElementById('mp3');
+		audio.play();
+		document.addEventListener("WeixinJSBridgeReady", function () {
+			audio.play();
+		}, false);
+	}
+	audioAutoPlay();
+});
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d354a40e1143f3574bc86106fd51eddb";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+</body></html>

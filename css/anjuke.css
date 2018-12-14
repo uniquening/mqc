@@ -1,0 +1,92 @@
+﻿body, html {
+    background: #fff; }
+
+.search-frame {
+    margin: 10px; }
+.search-frame div {
+    margin-bottom: 15px;
+    position: relative; }
+.search-frame div label {
+    display: inline-block;
+    width: 46%;
+    float: left; }
+.search-frame div span {
+    float: left;
+    width: 8%;
+    height: 38px;
+    line-height: 38px;
+    text-align: center; }
+.search-frame input, .search-frame select {
+    display: block;
+    width: 100%;
+    height: 38px;
+    border: solid 1px #e3e3e3;
+    padding-left: 4px;
+    outline: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border-radius:0px;}
+.search-frame input[type='button'] {
+    background: #ff8a00;
+    height: 40px;
+    color: #fff;
+    border-radius: 2px;
+    margin-top: 5px;
+    display: block;
+    outline: none;
+    border: none;
+    -webkit-appearance: none; }
+
+.mt25 {
+    margin: 20px 0; }
+
+hgroup h1 {
+    color: #333;
+    font-size: 14px;
+    text-align: center;
+    padding: 12px 0; }
+hgroup h2 {
+    font-size: 12px;
+    color: #ff8a00;
+    padding-bottom: 12px;
+    text-align: center; }
+
+.area-select {
+    position: relative; }
+.area-select::after {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-color: #999 transparent transparent transparent;
+    border-width: 6px;
+    font-size: 0;
+    position: absolute;
+    top: 16px;
+    right: 12px; }
+
+.search-frame select#User_Town{display:none !important;}
+/*20150824 by neil*/
+.zxlc-nav-hd {
+    box-sizing: border-box;
+    margin-bottom:20px;
+    background: #fff;
+}
+.zxlc-nav-hd li.active {
+    color: #01af63;
+    border-bottom: 2px solid #01af63;
+}
+.zxlc-nav-hd li.active a{
+    color:#01af63
+}
+.zxlc-nav-hd li {
+    width: 25%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    text-align: center;
+    color: #666;
+    border-bottom: 1px solid #ececec;
+    float: left;
+}
+/*20150824 by neil end*/

@@ -1,0 +1,42 @@
+/*
+Themes Name: Mqc
+Themes URI: https://www.qianfanglu.com
+Description: 手机主题
+Author: Unique Ning
+Version: 1.0.0
+*/
+/*分页导航*/
+.paging {
+	text-align: center
+}
+.wp-pagenavi {
+	display: inline-block;
+}
+.wp-pagenavi .previouspostslink {
+    zoom: 1;
+    margin-left: 5px;
+    border: 1px #eee solid;
+    background: #fff;
+    padding: 3px 10px 3px 10px;
+    display: inline-block;
+    color: #666666;
+    text-decoration: none;
+} 
+.paging .wp-pagenavi a, .paging .wp-pagenavi span {
+    display: inline-block;
+    zoom: 1;
+    margin-left: 5px;
+    border: 1px #eee solid;
+    background: #fff;
+    padding: 3px 10px 3px 10px;
+    text-decoration: none;
+    color: #666666;
+}
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+    background: #e1322c;
+    color: #fff;
+}
+
+.msgPN span.next a {
+	background-position: -150px -65px;
+}
